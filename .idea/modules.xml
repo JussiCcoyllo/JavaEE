@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AutoApp/AutoApp.iml" filepath="$PROJECT_DIR$/AutoApp/AutoApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataTime/DataTime.iml" filepath="$PROJECT_DIR$/DataTime/DataTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercisesReview/ExercisesReview.iml" filepath="$PROJECT_DIR$/ExercisesReview/ExercisesReview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaEE.iml" filepath="$PROJECT_DIR$/.idea/JavaEE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NewCar/NewCar.iml" filepath="$PROJECT_DIR$/NewCar/NewCar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP2/OOP2.iml" filepath="$PROJECT_DIR$/OOP2/OOP2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rectangle/Rectangle.iml" filepath="$PROJECT_DIR$/Rectangle/Rectangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Register/Register.iml" filepath="$PROJECT_DIR$/Register/Register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/StringClass/StringClass.iml" filepath="$PROJECT_DIR$/IdeaProjects/StringClass/StringClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/myfirstproject/myfirstproject.iml" filepath="$PROJECT_DIR$/IdeaProjects/myfirstproject/myfirstproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myvehicle/myvehicle.iml" filepath="$PROJECT_DIR$/myvehicle/myvehicle.iml" />
+    </modules>
+  </component>
+</project>
