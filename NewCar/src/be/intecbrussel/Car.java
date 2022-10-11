@@ -62,7 +62,7 @@ public class Car {
         }
     }
     public void SlowDown() {
-        if (currentSpeed > maxSpeed && currentSpeed > 0) {
+        if (currentSpeed < maxSpeed && currentSpeed > 0) {
             currentSpeed -= 5;
 
         } else {

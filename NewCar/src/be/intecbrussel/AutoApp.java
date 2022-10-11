@@ -17,14 +17,11 @@ public class AutoApp {
         car.setCurrentSpeed();
         car.SpeedUp();
         System.out.println(car.getCurrentSpeed());
-
-        car.setCurrentSpeed();
         car.SlowDown();
         System.out.println(car.getCurrentSpeed());
 
         car1.rePaint();
         car1.repair();
-
 
         car.count();
         car.ligthsOn();
