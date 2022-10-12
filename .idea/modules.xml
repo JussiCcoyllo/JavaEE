@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array12Oct/Array12Oct.iml" filepath="$PROJECT_DIR$/Array12Oct/Array12Oct.iml" />
       <module fileurl="file://$PROJECT_DIR$/AutoApp/AutoApp.iml" filepath="$PROJECT_DIR$/AutoApp/AutoApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataTime/DataTime.iml" filepath="$PROJECT_DIR$/DataTime/DataTime.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercisesReview/ExercisesReview.iml" filepath="$PROJECT_DIR$/ExercisesReview/ExercisesReview.iml" />
