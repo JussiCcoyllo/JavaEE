@@ -100,7 +100,7 @@ public class MyFirstArray {
 
 
 //      Schrijf een programma en maak van de string waarde hierbeneden een char array met index.
-
+        System.out.println("\n");
         String myString = "Char Array!";
         char[] text = myString.toCharArray();
         for(char ch:text){
