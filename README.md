@@ -23,3 +23,7 @@ The following repo contains several exercises built for the Java course of INTEC
 ## Technologie
 - Java
 - IDE IntelliJ
+ 
+<p align="center">
+ <img src="https://github.com/JussiCcoyllo/JavaEE/blob/main/giphy.gif"   />
+ </p>
